@@ -1,0 +1,13 @@
+{
+    "name": "symfony/my-test",
+    "description": "Some description",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitriy Makarov",
+            "email": "makarov.dmitriy@gmail.com"
+        }
+    ],
+    "require": {}
+}
