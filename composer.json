@@ -1,5 +1,5 @@
 {
-    "name": "mak-di/my-test",
+    "name": "symfony/my-test",
     "description": "Some description",
     "type": "library",
     "license": "MIT",
